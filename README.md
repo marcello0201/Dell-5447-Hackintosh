@@ -1,3 +1,4 @@
+https://uploaddeimagens.com.br/imagens/captura_de_tela-png-12892b3e-6550-43d2-8f51-28190485b2fc
 
 Dell Inspiron 5447  Bios A12
 
