@@ -1,0 +1,3 @@
+hda-verb 0x19 SET_PIN_WIDGET_CONTROL 0x25
+
+killall Terminal
